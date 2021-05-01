@@ -18,6 +18,17 @@
 
 ### Day 2: May 1, 2021
 
-**Today's Progress**: Object Oriented Programming and MySQL
+**Today's Progress**: PHP: Object Oriented Programming and MySQL
 
 **Thoughts:** Watching and understand the Object Oriented Programming in PHP. Also, an SQL Injection and how execute Attack and Prevent Attack using PHP7
+
+
+### Day 3: May 02, 2021
+
+**Today's Progress**: 
+1. Watching JavaScript basic to advance tutorial. [tagalog]
+2. Watching Mastering jQuery Course [Tagalog]
+3. Try and apply what I've learned in tutorials to Basic Data Structure and Basic Algorithm Scripting in freeCodeCamp.
+Once I'm done in no. 3, I'll update the log.md if I additional course today.
+
+**Thoughts:** I have a better understanding now in Data Structures and Algorithm. 
