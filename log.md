@@ -31,3 +31,10 @@
 3. Try and apply what I've learned in tutorials to Basic Data Structure and Basic Algorithm Scripting in freeCodeCamp.
 
 **Thoughts:** I have a better understanding now in Data Structures and Algorithm. 
+
+
+### Day 4: May 3, 2021
+
+**Today's Progress**: Problem Solving Patterns - KMP Algorithm
+
+**Thoughts:** Still, I have struggled to understand on how to solve Algorithm, but because of the patterns that I've learned today, little by little I believe I have better understanding now.
