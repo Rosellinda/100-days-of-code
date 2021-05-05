@@ -38,3 +38,10 @@
 **Today's Progress**: Problem Solving Patterns - KMP Algorithm
 
 **Thoughts:** Still, I have struggled to understand on how to solve Algorithm, but because of the patterns that I've learned today, little by little I believe I have better understanding now.
+
+
+### Day 5: May 5, 2021
+
+**Today's Progress**: Problem Solving Patterns - Frequency Counter and Frequency Pointers Pattern
+
+**Thoughts:** I still have confusion on using these 2 patterns, but I'm still practicing and did some challenges using these patterns.
