@@ -33,6 +33,7 @@
 **Thoughts:** I have a better understanding now in Data Structures and Algorithm. 
 
 
+
 ### Day 4: May 3, 2021
 
 **Today's Progress**: Problem Solving Patterns - KMP Algorithm
@@ -45,3 +46,10 @@
 **Today's Progress**: Problem Solving Patterns - Frequency Counter and Frequency Pointers Pattern
 
 **Thoughts:** I still have confusion on using these 2 patterns, but I'm still practicing and did some challenges using these patterns.
+
+
+### Day 6: May 06, 2021
+
+**Today's Progress**: Introduction to Java
+
+**Thoughts:** got a free Intro to Java tutorial for beginners with some exercises.
