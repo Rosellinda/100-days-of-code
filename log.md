@@ -10,3 +10,8 @@ I started again in day 1 (100 days of Code) due to I got sick. I created a TODO 
 
 **Link to work:** [todolist](https://rosellinda.github.io/todo_list/)
 
+
+### Day 1: May 22, 2021
+
+**Today's Progress**: Restarted to study the Data Structures and Algorithm in freeCodeCamp. 
+
