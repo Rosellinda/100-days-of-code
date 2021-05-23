@@ -11,7 +11,16 @@ I started again in day 1 (100 days of Code) due to I got sick. I created a TODO 
 **Link to work:** [todolist](https://rosellinda.github.io/todo_list/)
 
 
-### Day 1: May 22, 2021
+### Day 2: May 22, 2021
 
 **Today's Progress**: Restarted to study the Data Structures and Algorithm in freeCodeCamp. 
 
+
+### Day 3: May 23, 2021
+
+**Today's Progress**: todo list, HTML DOM Manipulation.
+
+**Thoughts:** Updating my todolist app. I add other features like whenever the delet button was clicked, it will go through completed list with date today "PST".
+In addition, I started the JavaScript Drum Kit project.
+
+**Link to work:** [todolist](https://rosellinda.github.io/todo_list/)
