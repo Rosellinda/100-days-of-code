@@ -24,3 +24,13 @@ I started again in day 1 (100 days of Code) due to I got sick. I created a TODO 
 In addition, I started the JavaScript Drum Kit project.
 
 **Link to work:** [todolist](https://rosellinda.github.io/todo_list/)
+
+
+### Day 4: May 24, 2021
+
+**Today's Progress**: Web Components: Custom Elements, Shadow DOM and HTML Templates
+
+**Thoughts:** I study the Web Components and it's main building blocks
+
+
+**Link to work:** (https://rosellinda.github.io/webComponents_crashCourse/)
