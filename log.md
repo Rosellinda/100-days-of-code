@@ -34,3 +34,16 @@ In addition, I started the JavaScript Drum Kit project.
 
 
 **Link to work:** (https://rosellinda.github.io/webComponents_crashCourse/)
+
+
+### Day 4: May 24, 2021
+
+**Today's Progress**: Web Components: Custom Elements, Shadow DOM and HTML Templates
+
+**Thoughts:** I creating two simple apps using Web Components
+
+**Link to work:** (https://rosellinda.github.io/webComponents_toolTip/) - Finished
+**Link to work:** (https://rosellinda.github.io/webc_projects/) - In progress
+
+
+
