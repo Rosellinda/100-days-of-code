@@ -42,8 +42,9 @@ In addition, I started the JavaScript Drum Kit project.
 
 **Thoughts:** I create a two simple apps using Web Components
 
-**Link to work:** (https://rosellinda.github.io/webComponents_toolTip/) - Finished
-**Link to work:** (https://rosellinda.github.io/webc_projects/) - In progress
+**Link to work:** [Tool Tip](https://rosellinda.github.io/webComponents_toolTip/) - Finished
+
+**Link to work:** [Quiz App](https://rosellinda.github.io/webc_projects/) - In progress
 
 
 ### Day 6: May 27, 2021
