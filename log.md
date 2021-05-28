@@ -56,3 +56,11 @@ In addition, I started the JavaScript Drum Kit project.
 **Link to work:** [Quiz App](https://rosellinda.github.io/webc_projects/)
 
 
+### Day 7: May 28, 2021
+
+**Today's Progress**: HTML, CSS and JS
+
+**Thoughts:** Creating my own portfolio using HTML, CSS and JS.
+
+
+
