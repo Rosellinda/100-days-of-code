@@ -63,4 +63,8 @@ In addition, I started the JavaScript Drum Kit project.
 **Thoughts:** Creating my own portfolio using HTML, CSS and JS.
 
 
+### Day 8: May 30, 2021
 
+**Today's Progress**: HTML, CSS and JS
+
+**Thoughts:** Starting to create a JS Drum Kit project.
