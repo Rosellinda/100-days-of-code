@@ -68,3 +68,13 @@ In addition, I started the JavaScript Drum Kit project.
 **Today's Progress**: HTML, CSS and JS
 
 **Thoughts:** Starting to create a JS Drum Kit project.
+
+
+### Day 9: June 1, 2021
+
+**Today's Progress**: HTML, CSS, JS and PHP
+
+**Thoughts:** Done with JS DRUM KIT. I have struggle in PHP Mailer tutorial due to unable to get an account in SMTP2go because it doesn't accept a gmail or yahoo email account.
+
+**Link to work:** [JS DRUM KIT](https://rosellinda.github.io/JS_Drum_Kit/)
+**Link to work:** [PHPMailer](https://rosellinda.github.io/php_mailer/)
