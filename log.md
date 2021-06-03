@@ -87,3 +87,12 @@ In addition, I started the JavaScript Drum Kit project.
 **Thoughts:** Creating a clock using HTML, CSS and JS.
 
 **Link to work:** [Clock_JS](https://rosellinda.github.io/clock_js/)
+
+
+### Day 11: June 3, 2021
+
+**Today's Progress**: HTML, CSS and JS
+
+**Thoughts:** Finishing my own personal portfolio.
+
+**Link to work:** [Portfolio](https://rosellinda.github.io/rosellejburlasa_portfolio/)
