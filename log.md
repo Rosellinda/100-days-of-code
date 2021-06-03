@@ -78,3 +78,12 @@ In addition, I started the JavaScript Drum Kit project.
 
 **Link to work:** [JS DRUM KIT](https://rosellinda.github.io/JS_Drum_Kit/)
 **Link to work:** [PHPMailer](https://rosellinda.github.io/php_mailer/)
+
+
+### Day 10: June 2, 2021
+
+**Today's Progress**: HTML, CSS and JS
+
+**Thoughts:** Creating a clock using HTML, CSS and JS.
+
+**Link to work:** [Clock_JS](https://rosellinda.github.io/clock_js/)
