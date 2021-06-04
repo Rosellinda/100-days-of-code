@@ -96,3 +96,12 @@ In addition, I started the JavaScript Drum Kit project.
 **Thoughts:** Finishing my own personal portfolio.
 
 **Link to work:** [Portfolio](https://rosellinda.github.io/rosellejburlasa_portfolio/)
+
+
+### Day 12: June 4, 2021
+
+**Today's Progress**: HTML, CSS and JS (DOM Manipulation)
+
+**Thoughts:** First Odin Project - create a Etch a Sketch. ** in progress.
+
+**Link to work:** [Etch-a-sketch](https://rosellinda.github.io/Etch-a-Sketch/)
