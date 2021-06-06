@@ -105,3 +105,12 @@ In addition, I started the JavaScript Drum Kit project.
 **Thoughts:** First Odin Project - create a Etch a Sketch. ** in progress.
 
 **Link to work:** [Etch-a-sketch](https://rosellinda.github.io/Etch-a-Sketch/)
+
+
+### Day 13: June 6, 2021
+
+**Today's Progress**: HTML, CSS and JS (DOM Manipulation)
+
+**Thoughts:** First Odin Project - create a Etch a Sketch. I had struggle in resizing the grid. If the size grid is more than 20x20, it exceed to my grid container. It's still in progress, I will find a solution for this issue tomorrow.
+
+**Link to work:** [Etch-a-sketch](https://rosellinda.github.io/Etch-a-Sketch/)
