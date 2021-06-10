@@ -114,3 +114,19 @@ In addition, I started the JavaScript Drum Kit project.
 **Thoughts:** First Odin Project - create a Etch a Sketch. I had struggle in resizing the grid. If the size grid is more than 20x20, it exceed to my grid container. It's still in progress, I will find a solution for this issue tomorrow.
 
 **Link to work:** [Etch-a-sketch](https://rosellinda.github.io/Etch-a-Sketch/)
+
+
+### Day 14: June 7, 2021
+
+**Today's Progress**: OOP
+
+**Thoughts:** Start to study OOP (Object oriented programming and continue my Odin Project, etch-a-sketch
+
+**Link to work:** [Etch-a-sketch](https://rosellinda.github.io/Etch-a-Sketch/)
+
+
+### Day 15: June 9, 2021
+
+**Today's Progress**: Loops in JAVA
+
+**Thoughts:** Started to study the loops (For, ForEach, and while) in JAVA and did some challenges.
